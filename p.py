@@ -1,2 +1,2 @@
-print('this is dev and should be moved to master')
+a = 3
 print('add a new line')
